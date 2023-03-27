@@ -85,9 +85,9 @@ content:
         sub_title: Technical Support and Network Administration
         caption: 2016 - 2020
         description: | # this will include new lines to allow paragraphs
-            Oversaw technical support team responsible for +/- 2000 clients
-            Design and deployment of ISP network infrastructure
-            Company website development, including client companies
+            - Oversaw technical support team responsible for +/- 2000 clients
+            - Design and deployment of ISP network infrastructure
+            - Company website development, including client companies
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,7 +97,7 @@ content:
         caption: 2021 - Present
         sub_title: BCom Business Management
         description: | # this will include new lines to allow paragraphs
-          In progress of my third year at Akademia. Focussing on project management, supply chains and international business at the moment.
+          As a third-year student at Akademia, I am currently studying Business Management with a focus on several key areas. These include Project Management, which involves learning the essential skills and tools required to successfully plan, execute, and deliver projects on time and within budget. Through this comprehensive course of study, I am gaining the knowledge and skills necessary to succeed in a rapidly changing and increasingly globalized business world.
 
   - title: A Little More About Me
     layout: text
